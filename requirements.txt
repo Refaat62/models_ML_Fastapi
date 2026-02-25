@@ -1,5 +1,18 @@
+# Python runtime recommended: 3.12.16 (specify in runtime.txt)
+
 fastapi==0.133.0
 uvicorn==0.23.2
 scikit-learn==1.2.2
-joblib==1.3.2
 numpy==1.26.0
+joblib==1.3.2
+scipy==1.11.1
+pandas==2.1.1
+matplotlib==3.8.1
+seaborn==0.12.3
+plotly==5.16.0
+click==8.3.1
+typing-extensions==4.7.1
+anyio==4.12.1
+starlette==0.26.1
+pydantic==2.12.5
+annotated-types==0.7.0
