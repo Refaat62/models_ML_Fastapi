@@ -1,3 +1,4 @@
+python==3.10.13
 fastapi
 uvicorn
 scikit-learn
@@ -6,4 +7,5 @@ pandas
 matplotlib
 Pillow
 scikit-learn==1.3.2
+
 
